@@ -29,7 +29,7 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 {{</* tweet GoHugoIO 1315233626070503424 */>}}
 ```
 <br>
-{{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
+{{< tweet GoHugoIO 1315233626070503424 >}}
 <br>
 
 
